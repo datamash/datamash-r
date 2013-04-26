@@ -1,0 +1,15 @@
+Package: datamash
+Title: DatamashIO API Wrapper
+Version: 0.1.0
+Date: 2013-04-14
+Author: Bjoern Stiel
+Maintainer: Bjoern Stiel <bjoern@datamash.io>
+Description: This package interacts directly with the DatamashIO API. For more info see https://datamash.io.
+Imports:
+  RCurl,
+  RJSONIO,
+  hash
+License: GPL-2
+Collate:
+  'datamash.R'
+  'resource.R'
